@@ -52,9 +52,9 @@ Analyze retail sales data to identify revenue trends, product performance, regio
 
 
 
-!\[Monthly Sales](outputs/charts/monthly\_sales.png)
+![Monthly Sales](outputs/charts/monthly\_sales.png)
 
-!\[Top Products](outputs/charts/top\_products.png)
+![Top Products](outputs/charts/top\_products.png)
 
 
 
