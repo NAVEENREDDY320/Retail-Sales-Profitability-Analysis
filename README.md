@@ -15,9 +15,7 @@ Analyze retail sales data to identify revenue trends, product performance, regio
 
 
 \* Python
-
 \* Pandas
-
 \* Matplotlib
 
 
